@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "discord": "01001010100101012",
+            "password": "supersecret",
+            "programs": [
+                {
+                    "expiry": "09/26/2023",
+                    "hwid": "",
+                    "program": "thebestprogramever",
+                    "reset": "06/10/2023"
+                },
+                {
+                    "expiry": "04/1/2024",
+                    "hwid": "",
+                    "program": "thebestthing",
+                    "reset": "06/11/2023"
+                }
+            ],
+            "username": "userNAME"
+        }
+    ]
+}
